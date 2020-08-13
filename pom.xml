@@ -41,7 +41,7 @@
 		<cas.version>5.2.3</cas.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.12</junit.version>
-		<quartz.version>2.2.3</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<io.buji.version>3.1.0</io.buji.version>
 		<aspectj.version>1.8.13</aspectj.version>
 		<org.pac4j.version>2.2.1</org.pac4j.version>
