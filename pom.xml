@@ -74,7 +74,7 @@
 		<org.apache.xbean.xbean-spring.version>4.6</org.apache.xbean.xbean-spring.version>
 		<org.csource.fastdfs-client-java.version>1.28</org.csource.fastdfs-client-java.version>
 		<com.aliyun.aliyun-java-sdk-core.version>3.5.1</com.aliyun.aliyun-java-sdk-core.version>
-		<biz.paluch.logging.logstash-gelf.version>1.11.2</biz.paluch.logging.logstash-gelf.version>
+		<biz.paluch.logging.logstash-gelf.version>1.14.0</biz.paluch.logging.logstash-gelf.version>
 		<com.aliyun.aliyun-java-sdk-dysmsapi.version>1.1.0</com.aliyun.aliyun-java-sdk-dysmsapi.version>
 		<org.eclipse.jetty.jetty-servlet.version>7.6.21.v20160908</org.eclipse.jetty.jetty-servlet.version>
 		<org.apache.commons.commons-lang3.version>3.7</org.apache.commons.commons-lang3.version>
@@ -477,7 +477,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
