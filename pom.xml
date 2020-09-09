@@ -42,9 +42,9 @@
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.12</junit.version>
 		<quartz.version>2.2.3</quartz.version>
-		<io.buji.version>3.1.0</io.buji.version>
+		<io.buji.version>5.0.1</io.buji.version>
 		<aspectj.version>1.8.13</aspectj.version>
-		<org.pac4j.version>2.2.1</org.pac4j.version>
+		<org.pac4j.version>4.0.0</org.pac4j.version>
 		<org.jsoup.version>1.11.2</org.jsoup.version>
 		<com.101tec.version>0.10</com.101tec.version>
 		<org.mybatis.version>3.4.5</org.mybatis.version>
@@ -52,7 +52,7 @@
 		<springboot.version>2.0.0.RELEASE</springboot.version>
 		<org.javassist.version>3.22.0-GA</org.javassist.version>
 		<commons-logging.version>1.1.3</commons-logging.version>
-		<org.apache.shiro.version>1.4.0</org.apache.shiro.version>
+		<org.apache.shiro.version>1.6.0</org.apache.shiro.version>
 		<com.alibaba.dubbo.version>2.6.0</com.alibaba.dubbo.version>
 		<com.alibaba.druid.version>1.1.8</com.alibaba.druid.version>
 		<com.google.guava.version>24.0-jre</com.google.guava.version>
@@ -68,7 +68,7 @@
 		<org.apache.logging.log4j.version>2.9.0</org.apache.logging.log4j.version>
 		<javax.servlet.jsp.jsp-api.version>2.3.1</javax.servlet.jsp.jsp-api.version>
 		<javax.servlet.servlet-api.version>3.1.0</javax.servlet.servlet-api.version>
-		<org.apache.shiro.shiro-cas.version>1.2.6</org.apache.shiro.shiro-cas.version>
+		<org.apache.shiro.shiro-cas.version>1.6.0</org.apache.shiro.shiro-cas.version>
 		<org.mybatis.mybatis-spring.version>1.3.1</org.mybatis.mybatis-spring.version>
 		<mysql.mysql-connector-java.version>5.1.45</mysql.mysql-connector-java.version>
 		<org.apache.xbean.xbean-spring.version>4.6</org.apache.xbean.xbean-spring.version>
@@ -477,7 +477,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
