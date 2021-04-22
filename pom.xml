@@ -47,7 +47,7 @@
 		<org.pac4j.version>2.2.1</org.pac4j.version>
 		<org.jsoup.version>1.11.2</org.jsoup.version>
 		<com.101tec.version>0.10</com.101tec.version>
-		<org.mybatis.version>3.4.5</org.mybatis.version>
+		<org.mybatis.version>3.5.6</org.mybatis.version>
 		<com.sun.mail.version>1.6.0</com.sun.mail.version>
 		<springboot.version>2.0.0.RELEASE</springboot.version>
 		<org.javassist.version>3.22.0-GA</org.javassist.version>
